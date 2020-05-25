@@ -1,0 +1,10 @@
+/.idea/
+.terraform
+.iml
+.idea
+.tfstate
+.tfstate.backup
+.DS_Store
+.zip
+*.*-workspace
+
