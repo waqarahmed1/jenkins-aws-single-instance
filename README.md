@@ -1,1 +1,1 @@
-# MG-Platform-JenkinsPoC
+# Platform-JenkinsPoC
